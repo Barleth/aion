@@ -1,4 +1,6 @@
 # aion
+![Logo](https://i.imgur.com/JrzhmnV.png)
+
 A simple C application vulnerable to buffer overflow attacks. For the sake of reality, this application simulates a simple network host management tool.
 
 _This was created for didactic purpose in a **virtualized environment**, is strongly recommended to do so._
